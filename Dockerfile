@@ -1,5 +1,4 @@
 FROM python:3.7-alpine
-MAINTAINER Thiago Silveira Ltd
 
 ENV PYTHONUNBUFFERED 1
 
